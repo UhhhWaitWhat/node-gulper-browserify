@@ -1,0 +1,21 @@
+{
+  "name": "gulper-browserify",
+  "version": "0.0.1",
+  "description": "A gulper plugin to compile your code via browserify",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulAvery/node-gulper-browserify.git"
+  },
+  "keywords": [
+    "gulper",
+    "gulp",
+    "browserify"
+  ],
+  "author": "Florian Albertz",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-browserify": "^0.5.0",
+    "event-stream": "^3.1.7"
+  }
+}
